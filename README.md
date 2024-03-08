@@ -1,6 +1,6 @@
 # Iris_Classification_Internship_Task   
 
-This task basically classifies the IRIS FLOWER
+It is machine learning project that basically classifies the IRIS FLOWER and the Dataset has been taken from Kaggle.
 
 There are various species of IRIS flower.
 
